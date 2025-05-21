@@ -1,4 +1,4 @@
-This project was the problem statement from Amazon Hackathon ML, after a long research I and my collaborator posted the finally research and the code. 
+This project was the problem statement from Amazon Hackathon ML, after a long research I and my collaborator posted the final code. 
 # ML Challenge Problem Statement 2024
 
 ## Feature Extraction from Images
